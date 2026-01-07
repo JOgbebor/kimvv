@@ -25,7 +25,7 @@ OPENKIM_TEST_DRIVERS = {
 
 # List of URLs of development Test Drivers to test
 DEVEL_TEST_DRIVERS = {
-    "https://github.com/openkim-hackathons/FreeEnergies__TD_000000000000_000/archive/refs/tags/v000b1.tar.gz":
+    "FreeEnergies-000b0.tar.gz":
         {"target_size": 100}
 }
 
