@@ -25,9 +25,8 @@ OPENKIM_TEST_DRIVERS = {
 
 # List of URLs of development Test Drivers to test
 DEVEL_TEST_DRIVERS = {
-    "https://github.com/openkim-hackathons/CrystalGenomeASEExample__TD_000000654321_000/archive/refs/tags/v000b0.tar.gz": {
-        "num_steps": 2
-    }
+    "https://github.com/openkim-hackathons/FreeEnergies__TD_000000000000_000/archive/refs/tags/v000b1.tar.gz":
+        {"target_size": 100}
 }
 
 MAX_URLLIB_ATTEMPTS = 10
