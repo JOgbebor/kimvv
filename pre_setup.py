@@ -25,7 +25,7 @@ OPENKIM_TEST_DRIVERS = {
 
 # List of URLs of development Test Drivers to test
 DEVEL_TEST_DRIVERS = {
-    "FreeEnergies-000b4.tar.gz":
+    "FreeEnergies-000b4.tar":
         {"target_size": 100,
          "temperature_K": 300,
         }
